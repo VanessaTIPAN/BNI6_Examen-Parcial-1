@@ -14,6 +14,7 @@
 - Version: DirectX 12
 ## Programas utilizados 
 - GitHub
+- Gitbash 
 - Anaconda 
 
 ## Explicacion de la data utilizada 
