@@ -13,4 +13,7 @@
 - Memoria: 4096 MB RAM
 - Version: DirectX 12
 ## Programas utilizados 
+- GitHub
+- Anaconda 
+
 ## Explicacion de la data utilizada 
