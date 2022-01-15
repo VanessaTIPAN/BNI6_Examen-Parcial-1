@@ -1,1 +1,9 @@
 Ejercicio
+#lista1 = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
+#lista1 [3]
+#lista1[2:5]
+#lista1.append(["gbi6", "bio1", "ikiam"])
+#print("Despues de append:", lista1[-1][-1]
+
+lista1.append(["gbi6", "bio1", "ikiam"])
+print("Despues de append:", lista1
