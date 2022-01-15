@@ -1,1 +1,28 @@
 Ejercicio
+dic_genomas = {"Saccharomyces cerevisiae unicellular budding yeast": 12 , "Trichomonas vaginalis": 160, "Plasmodium falciparum unicellular malaria parasite": 23, "Caenorhabditis elegans nematode": 95.5}
+especies= dic_genomas.pop("")
+especies
+
+dic_genomes={"Saccharomyces cerevisiae (unicellular budding yeast)": ["12 million", 6000], 
+              "Trichomonas vaginalis ": ["160 million", 60000], 
+              "Plasmodium falciparum (unicellular malaria parasite)": ["23 million", 5000], 
+              "Caenorhabditis elegans (nematode)": ["95.5 million", 18000],
+              "Drosophila melanogaster (fruit fly)": ["170 million", 14000],
+              "Arabidopsis thaliana (mustard; thale cress)": ["125 million", 25000],
+              "Oryza sativa (rice)": ["470 million", 51000],
+              "Gallus gallus (chicken)": ["1 billion", 20000-23000],
+              "Canis familiaris (domestic dog)": ["2.4 billion", 19000],
+              "Mus musculus (laboratory mouse)": ["2.5 billion", 30000],
+              "Homo sapiens (human)": ["2.9 billion", 20000-25000]}
+
+dic_genomes.items()
+keys = []
+values = []
+
+
+for (key, val) in dic_genomes.items():
+    keys.append(key)
+    values.append(val)
+
+
+especies=keys
